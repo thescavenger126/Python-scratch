@@ -1,0 +1,1 @@
+print('Max is alright')
